@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-10-01T10:53:55.095Z",
+  "scope": "Static source and content checks only. This does not prove browser behavior or visual quality.",
+  "checks": [
+    {
+      "name": "All HTML content keys exist in both languages",
+      "status": "passed"
+    },
+    {
+      "name": "English and Chinese use the same content keys",
+      "status": "passed"
+    },
+    {
+      "name": "Official prices remain 0, 12, 29",
+      "status": "passed"
+    },
+    {
+      "name": "Three bilingual meetings share task counts, names and initial states",
+      "status": "passed"
+    },
+    {
+      "name": "Five official FAQs and six revision FAQs in each language",
+      "status": "passed"
+    },
+    {
+      "name": "Revision price and both subtitles updated independently",
+      "status": "passed"
+    },
+    {
+      "name": "Copy documents reflect official and revision price/subtitle/FAQ",
+      "status": "passed"
+    },
+    {
+      "name": "All local stylesheet, scripts, icon and anchor targets exist",
+      "status": "passed"
+    },
+    {
+      "name": "No external resources, fetch, module imports or local storage",
+      "status": "passed"
+    }
+  ],
+  "revision": {
+    "officialPro": 12,
+    "revisionPro": 15,
+    "officialFaqCount": 5,
+    "revisionFaqCount": 6,
+    "enSubtitleBefore": "Turn meeting notes into a clear summary, decisions, and tasks—so everyone knows what comes next, and who owns it.",
+    "enSubtitleAfter": "Bring meeting context, decisions, and clear ownership together—then use one shared view to plan the follow-up.",
+    "zhSubtitleBefore": "把会议笔记整理成摘要、决策和任务，让每个人都知道接下来做什么、由谁负责。",
+    "zhSubtitleAfter": "把会议背景、决策和任务分工放在一起，让团队通过同一份清楚的记录安排后续工作。"
+  }
+}

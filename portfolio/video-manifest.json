@@ -1,0 +1,42 @@
+{
+  "duration_seconds": 70,
+  "fps": 12,
+  "source": "Actual Chromium browser screenshots captured every ~0.5 seconds during a scripted walkthrough. Resampled per scene. No generated product frames, real client results or voice-over.",
+  "scenes": [
+    [
+      0,
+      19,
+      "01  English landing page: actual rendered interface"
+    ],
+    [
+      19,
+      38,
+      "02  Three preset meetings: switch the example"
+    ],
+    [
+      38,
+      57,
+      "03  Mark a task complete: progress updates"
+    ],
+    [
+      57,
+      76,
+      "04  Chinese localization: task state stays intact"
+    ],
+    [
+      76,
+      95,
+      "05  Mobile layout at 375 px"
+    ],
+    [
+      95,
+      114,
+      "06  Concept pricing: local dialog, no payment"
+    ],
+    [
+      114,
+      133,
+      "07  FAQ: clear scope and integration boundaries"
+    ]
+  ]
+}
